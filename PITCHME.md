@@ -1,6 +1,5 @@
 ---?image=img/dtp.jpg
 
-## REPASSE DE CONHECIMENTO
 <right> <h2>REPASSE DE CONHECIMENTO</h2> </right>
 <span style="float:right; font-family:Helvetica Neue; font-weight:bold">RED<span style="color:#e49436">HAT</span></span>
 
