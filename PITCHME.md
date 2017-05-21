@@ -1,6 +1,6 @@
 ---?image=img/dtp.jpg
 
-<span style="float:right; font-family:Helvetica Neue; font-weight:bold">REPASSE DE CONHECIMENTO</span>
+<span style="float:left; font-family:Helvetica Neue; font-weight:bold">REPASSE DE CONHECIMENTO</span>
 <span style="float:right; font-family:Helvetica Neue; font-weight:bold">RED<span style="color:#e49436">HAT</span></span>
 
 ---?image=img/dtp_capitulo.jpg
