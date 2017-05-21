@@ -8,7 +8,7 @@
 ## Tip!
 For best viewing experience press **F** key to go fullscreen.
 
----
++++?image=img/dtp_fundo.jpg
 
 ## Markdown Slides
 <span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
