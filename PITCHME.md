@@ -1,6 +1,6 @@
 ## REPASSE DE CONHECIMENTO
 ##### <span style="font-family:Helvetica Neue; font-weight:bold">red<span style="color:#e49436">hat</span></span>
-+++?image=dtp1.jpg Repasse
++++?image=dtp1.jpg
 ---
 
 ## Slideshow Theme Switcher
