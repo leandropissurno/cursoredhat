@@ -1,9 +1,9 @@
----?image=dtp.jpg
+---?image=img/dtp.jpg
 
 ## REPASSE DE CONHECIMENTO
 <span style="font-family:Helvetica Neue; font-weight:bold">red<span style="color:#e49436">hat</span></span>
 
----?image=dtp_capitulo.jpg
+---?image=img/dtp_capitulo.jpg
 
 ## Tip!
 For best viewing experience press **F** key to go fullscreen.
