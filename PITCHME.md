@@ -2,10 +2,8 @@
 
 ## REPASSE DE CONHECIMENTO
 <span style="font-family:Helvetica Neue; font-weight:bold">red<span style="color:#e49436">hat</span></span>
-<!--<span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span> |
-<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>-->
 
----
+---?image=dtp_capitulo.jpg
 
 ## Tip!
 For best viewing experience press **F** key to go fullscreen.
