@@ -1,6 +1,6 @@
 ---?image=img/dtp.jpg
 
-<div style="text-align:right; font-family:Helvetica Neue; font-size:xx-large; font-weight:bold">REPASSE DE CONHECIMENTO</div><br>
+<div style="text-align:right; font-family:Helvetica Neue; font-size:250%; font-weight:bold">REPASSE DE CONHECIMENTO</div><br>
 <span style="float:right; font-family:Helvetica Neue; font-weight:bold">REDHAT</span>
 
 ---?image=img/dtp_capitulo.jpg
