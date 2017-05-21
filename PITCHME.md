@@ -1,7 +1,7 @@
 ---?image=img/dtp.jpg
 
 ## REPASSE DE CONHECIMENTO
-<span style="font-family:Helvetica Neue; font-weight:bold">RED<span style="color:#e49436">HAT</span></span>
+<span style="float:right; font-family:Helvetica Neue; font-weight:bold">RED<span style="color:#e49436">HAT</span></span>
 
 ---?image=img/dtp_capitulo.jpg
 
