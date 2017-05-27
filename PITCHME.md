@@ -1,7 +1,7 @@
 ---?image=img/dtp.jpg
 
-<div style="float:right; margin:-45px; padding:0; font-family:Helvetica Neue; font-size:120%; font-weight:bold">REPASSE DE CONHECIMENTO</div><br>
-<span style="float:right; margin:-45px; padding:0; font-family:Helvetica Neue; font-weight:bold">REDHAT</span>
+<div style="float:right; margin:-45px; padding:0; font-family:Helvetica Neue; font-size:120%; font-weight:bold; color:white">REPASSE DE CONHECIMENTO</div><br>
+<span style="float:right; margin:-45px; padding:0; font-family:Helvetica Neue; font-weight:bold; color:white">REDHAT</span>
 
 ---?image=img/dtp_capitulo.jpg
 
