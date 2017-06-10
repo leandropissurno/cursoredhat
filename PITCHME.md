@@ -5,8 +5,7 @@
 
 ---?image=img/dtp_capitulo.jpg
 
-## Tip!
-For best viewing experience press **F** key to go fullscreen.
+## VIRTUALIZAÇÃO
 
 +++?image=img/dtp_fundo.jpg
 
