@@ -9,9 +9,9 @@
 
 +++?image=img/dtp_fundo.jpg
 
-<span style="color:gray; font-size:0.7em">Tradicional vs Virtual <b>Absolute URL</b></span>
+<span style="color:gray; font-size:0.7em">Tradicional x Virtual </b></span>
 
-![Image-Absolute](img/traditional_vs_virtual.jpg)
+![Image-Absolute](img/traditional_vs_virtual_0.jpg)
 
 <span style="color:gray; font-size: 0.5em;">the <b>Private Investocat</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
