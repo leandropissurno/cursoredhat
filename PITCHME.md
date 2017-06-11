@@ -9,9 +9,11 @@
 
 +++?image=img/dtp_fundo.jpg
 
-## Markdown Slides
-<span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown" target="_blank">GitPitch Wiki</a> for details.</span>
+<span style="color:gray; font-size:0.7em">Tradicional vs Virtual <b>Absolute URL</b></span>
+
+![Image-Absolute](img/traditional_vs_virtual.jpg)
+
+<span style="color:gray; font-size: 0.5em;">the <b>Private Investocat</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
 
 +++?image=img/dtp_fundo.jpg
