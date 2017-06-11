@@ -9,7 +9,7 @@
 
 +++?image=img/dtp_fundo.jpg
 
-<span style="color:gray; font-size:0.7em">Tradicional x Virtual </b></span>
+<span style="color:gray; font-size:1.5em">Tradicional    x    Virtual </b></span>
 
 ![Image-Absolute](img/traditional_vs_virtual_0.jpg)
 
