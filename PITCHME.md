@@ -9,11 +9,10 @@
 
 +++?image=img/dtp_fundo.jpg
 
-<span style="color:gray; font-size:1.5em">Tradicional    x    Virtual </b></span>
+<span style="color:gray; font-size:1.5em">Tradicional</b></b> x </b></b>Virtual </b></span>
 
 ![Image-Absolute](img/traditional_vs_virtual_0.jpg)
 
-<span style="color:gray; font-size: 0.5em;">the <b>Private Investocat</b> by <a href="https://github.com/jeejkang" target="_blank">jeejkang</a></span>
 
 
 +++?image=img/dtp_fundo.jpg
