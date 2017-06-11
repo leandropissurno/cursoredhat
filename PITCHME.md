@@ -5,7 +5,7 @@
 
 ---?image=img/dtp_capitulo.jpg
 
-## VIRTUALIZAÇÃO
+<div style="float:center; font-family:Helvetica Neue; font-size:120%; font-weight:bold; color:blue">VIRTUALIZAÇÃO</div><br>
 
 +++?image=img/dtp_fundo.jpg
 
@@ -14,7 +14,7 @@
 <span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown" target="_blank">GitPitch Wiki</a> for details.</span>
 
 
-+++
++++?image=img/dtp_fundo.jpg
 
 #### Use GitHub Flavored Markdown
 #### For Slide Content Creation
@@ -22,6 +22,16 @@
 <br>
 
 The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
+
++++?image=img/dtp_fundo.jpg
+
+#### Use GitHub Flavored Markdown
+#### For Slide Content Creation
+
+<br>
+
+The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
+
 
 ---
 
