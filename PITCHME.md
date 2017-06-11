@@ -5,7 +5,7 @@
 
 ---?image=img/dtp_capitulo.jpg
 
-<div style="float:center; font-family:Helvetica Neue; font-size:120%; font-weight:bold; color:#2E86AC">VIRTUALIZAÇÃO</div><br>
+<div style="float:center; font-family:Helvetica Neue; font-size:180%; font-weight:bold; color:#2E86AC">VIRTUALIZAÇÃO</div><br>
 
 +++?image=img/dtp_fundo.jpg
 
