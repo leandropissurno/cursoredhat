@@ -9,7 +9,7 @@
 
 +++?image=img/dtp_fundo.jpg
 
-<span style="color:gray; font-size:1.5em">Tradicional</b></b> x </b></b>Virtual </b></span>
+<span style="color:gray; font-size:1.5em">Tradicional X Virtual </b></span>
 
 ![Image-Absolute](img/traditional_vs_virtual_0.jpg)
 
@@ -39,9 +39,9 @@ The same tool you use to create project **READMEs** and **Wikis** for your Git r
 
 +++?image=img/dtp_fundo.jpg
 
-<span style="color:gray; font-size:1.5em">Tradicional</b></b> x </b></b>Virtual </b></span>
+<span style="color:gray; font-size:1.5em">O que é?</b></span>
 
-![Image-Absolute](img/traditional_vs_virtual_0.jpg)
+![Image-Absolute](img/vagrant.png)
 
 ---
 
