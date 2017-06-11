@@ -47,13 +47,13 @@ The same tool you use to create project **READMEs** and **Wikis** for your Git r
 
 <span style="color:#035D93; font-size:1.5em">Como funciona?</b></span>
 
-![Image-Absolute](img/vagrant_fluxo.png)
+![Image-Absolute](img/burnm.gif)
 
 +++?image=img/dtp_fundo.jpg
 
 <span style="color:#035D93; font-size:1.5em">vagrant up</b></span>
 
-![Image-Absolute](img/burn11.gif)
+![Image-Absolute](img/vagrant_fluxo.png)
 
 ---
 
