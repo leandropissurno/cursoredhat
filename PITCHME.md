@@ -20,7 +20,7 @@
 
 <span style="color:gray; font-size:1.5em">Hypervisor </b></span>
 
-![Image-Absolute](img/traditional_vs_virtual_0.jpg)
+![Image-Absolute](img/type1-vs-2.png)
 
 <br>
 
