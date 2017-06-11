@@ -1,3 +1,4 @@
 #theme : white
 #logo : dtp_fundo.jpg
 #background : dtp_fundo.jpg
+theme-override : css/PITCHME.css
