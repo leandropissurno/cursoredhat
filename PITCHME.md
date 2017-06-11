@@ -14,7 +14,6 @@
 ![Image-Absolute](img/traditional_vs_virtual_0.jpg)
 
 
-
 +++?image=img/dtp_fundo.jpg
 
 <span style="color:gray; font-size:1.5em">Hypervisor </b></span>
@@ -34,6 +33,15 @@ The same tool you use to create project **READMEs** and **Wikis** for your Git r
 
 The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
 
+---?image=img/dtp_capitulo.jpg
+
+<div style="float:center; font-family:Helvetica Neue; font-size:180%; font-weight:bold; color:#2E86AC">VAGRANT</div><br>
+
++++?image=img/dtp_fundo.jpg
+
+<span style="color:gray; font-size:1.5em">Tradicional</b></b> x </b></b>Virtual </b></span>
+
+![Image-Absolute](img/traditional_vs_virtual_0.jpg)
 
 ---
 
