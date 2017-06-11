@@ -18,8 +18,9 @@
 
 +++?image=img/dtp_fundo.jpg
 
-#### Use GitHub Flavored Markdown
-#### For Slide Content Creation
+<span style="color:gray; font-size:1.5em">Hypervisor </b></span>
+
+![Image-Absolute](img/traditional_vs_virtual_0.jpg)
 
 <br>
 
