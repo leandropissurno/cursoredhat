@@ -113,16 +113,7 @@ end
 
 <span style="color:#035D93; font-size:1.5em">Runlevels / Target</b></span>
 
-| Runlevel  | Target Units | Description  |
-|-----------|--------------|--------------|
-| 0  | runlevel0.target, poweroff.target| Shut down and power off the system.  |
-| 1  | runlevel1.target, rescue.target| Set up a rescue shell. |
-| 2  | runlevel2.target, multi-user.target| Set up a non-graphical multi-user system.  |
-| 3  | runlevel3.target, multi-user.target| Set up a non-graphical multi-user system.  |
-| 4  | runlevel4.target, multi-user.target| Set up a non-graphical multi-user system.  |
-| 5  | runlevel5.target, graphical.target| Set up a graphical multi-user system.  |
-| 6  | runlevel6.target, reboot.target| Shut down and reboot the system. |
-
+![Image-Absolute](img/targets.png)
 
 +++?image=img/dtp_fundo.jpg
 
