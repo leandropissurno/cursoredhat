@@ -55,11 +55,11 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 Vagrant.configure("2") do |config|
-  config.vm.define "redhat7" , primary: true do |redhat7|
-    redhat7.vm.box = "rhel-7.3-x86_64-virtualbox-dtp"
-    redhat7.vm.network "private_network", ip: "192.168.33.85"
-    redhat7.vm.hostname = "redhat7.dtp" 
-    redhat7.vm.provider "virtualbox" do |vb|
+  config.vm.define "centos7" , primary: true do |centos7|
+    centos7.vm.box = "rhel-7.3-x86_64-virtualbox-dtp"
+    centos7.vm.network "private_network", ip: "192.168.33.85"
+    centos7.vm.hostname = "centos7.dtp" 
+    centos7.vm.provider "virtualbox" do |vb|
       vb.memory = 1024
       vb.cpus = 2
       end
