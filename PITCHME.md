@@ -29,7 +29,7 @@ The same tool you use to create project **READMEs** and **Wikis** for your Git r
 
 <span style="color:#035D93; font-size:1.5em">Ganho$ </b></span>
 
-![Image-Absolute](img/vmarchi.png)
+![Image-Absolute](img/vmarchi.PNG)
 
 
 ---?image=img/dtp_capitulo.jpg
