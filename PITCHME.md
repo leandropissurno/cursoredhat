@@ -26,8 +26,11 @@ The same tool you use to create project **READMEs** and **Wikis** for your Git r
 
 +++?image=img/dtp_fundo.jpg
 
-#### Use GitHub Flavored Markdown
-#### For Slide Content Creation
+<span style="color:#035D93; font-size:1.5em">Ganho$ </b></span>
+
+![Image-Absolute](img/vmarchi.png)
+
+<br>
 
 <br>
 
