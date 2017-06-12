@@ -166,7 +166,7 @@ vboxadd:x:996:1::/var/run/vboxadd:/bin/false
 <span style="color:#035D93; font-size:1.5em">Grupos</b></span>
 
 * Grupos primários
-* Grupps secundários
+* Grupos secundários
 * Permissões UGO
 ```
 -rw-rw-r--. 1 vagrant vagrant 6 Jun 12 20:20 teste
