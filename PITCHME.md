@@ -23,13 +23,12 @@
 
 
 
-The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
-
 +++?image=img/dtp_fundo.jpg
 
 <span style="color:#035D93; font-size:1.5em">Ganho$ </b></span>
 
 ![Image-Absolute](img/vmarchi.png)
+
 
 
 ---?image=img/dtp_capitulo.jpg
