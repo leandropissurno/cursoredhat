@@ -121,6 +121,23 @@ end
 
 ![Image-Absolute](img/targetsr.png)
 
+
+---?image=img/dtp_capitulo.jpg
+
+<div style="float:center; font-family:Helvetica Neue; font-size:180%; font-weight:bold; color:#2E86AC">SISTEMAS DE ARQUIVOS</div><br>
+
++++?image=img/dtp_fundo.jpg
+
+<span style="color:#035D93; font-size:1.5em">Definição</b></span>
+
+![Image-Absolute](img/filesystem.gif)
+
++++?image=img/dtp_fundo.jpg
+
+<span style="color:#035D93; font-size:1.5em">Tipos</b></span>
+
+![Image-Absolute](img/filesystem.png)
+
 ---
 
 ## Code Slides
