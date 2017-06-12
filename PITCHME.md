@@ -111,15 +111,15 @@ end
 
 +++?image=img/dtp_fundo.jpg
 
-<span style="color:#035D93; font-size:1.5em">Runlevels / Target</b></span>
+<span style="color:#035D93; font-size:1.5em">Systemd</b></span>
 
-![Image-Absolute](img/targetsr.png)
+![Image-Absolute](img/systemd_archi.png)
 
 +++?image=img/dtp_fundo.jpg
 
-<span style="color:#035D93; font-size:1.5em">Comandos Básicos</b></span>
+<span style="color:#035D93; font-size:1.5em">Runlevels / Target</b></span>
 
-![Image-Absolute](img/comandos_essenciais0.png)
+![Image-Absolute](img/targetsr.png)
 
 ---
 
