@@ -93,6 +93,11 @@ end
 
 <span style="color:#035D93; font-size:1.5em">Comandos Básicos</b></span>
 
+|*Nome*|*Destino*|*Redireciona*|*Número Descritor*|
+|---|---|---|---|
+|STDIN|Teclado|< ou 0<|0|
+|STDOUT|Monitor|> ou 1>|1|
+|STDERR|Monitor|2>|2|
 ![Image-Absolute](img/vagrant.png)
 
 +++?image=img/dtp_fundo.jpg
