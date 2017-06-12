@@ -113,7 +113,7 @@ end
 
 <span style="color:#035D93; font-size:1.5em">Runlevels / Target</b></span>
 
-![Image-Absolute](img/targets.png)
+![Image-Absolute](img/targetsr.png)
 
 +++?image=img/dtp_fundo.jpg
 
