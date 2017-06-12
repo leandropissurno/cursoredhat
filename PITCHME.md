@@ -14,13 +14,14 @@
 ![Image-Absolute](img/traditional_vs_virtual_0.jpg)
 
 
+
 +++?image=img/dtp_fundo.jpg
 
 <span style="color:#035D93; font-size:1.5em">Hypervisor </b></span>
 
 ![Image-Absolute](img/type1-vs-2.png)
 
-<br>
+
 
 The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
 
@@ -30,11 +31,6 @@ The same tool you use to create project **READMEs** and **Wikis** for your Git r
 
 ![Image-Absolute](img/vmarchi.png)
 
-<br>
-
-<br>
-
-The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
 
 ---?image=img/dtp_capitulo.jpg
 
