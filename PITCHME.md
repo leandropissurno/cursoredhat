@@ -27,7 +27,7 @@
 
 <span style="color:#035D93; font-size:1.5em">Ganho$ </b></span>
 
-![Image-Absolute](img/vmarchi.png)
+![Image-Absolute](img/vmarchi.jpg)
 
 
 
