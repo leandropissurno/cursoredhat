@@ -185,15 +185,8 @@ vboxadd:x:996:1::/var/run/vboxadd:/bin/false
 
 <span style="color:#035D93; font-size:1.5em">Firewalld - Zonas</b></span>
 
-###### drop
-###### block
-###### public
-###### external
-###### dmz
-###### work
-###### home
-###### internal
-###### trusted
+###### drop  block  public  external  dmz
+###### work  home   internal  trusted
 
 +++?image=img/dtp_fundo.jpg
 
