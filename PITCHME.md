@@ -148,18 +148,27 @@ end
 <span style="color:#035D93; font-size:1.5em">Usuários</b></span>
 
 * Usuários
-
 * Superusuários
-
 * sudo **x** su
+```Linux
+cat /etc/passwd
+root:x:0:0:root:/root:/bin/bash
+sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
+vagrant:x:1000:1000:vagrant:/home/vagrant:/bin/bash
+vboxadd:x:996:1::/var/run/vboxadd:/bin/false
+```
 
 
 
 +++?image=img/dtp_fundo.jpg
 
-<span style="color:#035D93; font-size:1.5em">Tipos</b></span>
+<span style="color:#035D93; font-size:1.5em">Grupos</b></span>
 
-![Image-Absolute](img/filesystem.png)
+* Grupos primários
+* Grupps secundários
+* Permissões UGO
+```Linux
+
 
 ---
 
