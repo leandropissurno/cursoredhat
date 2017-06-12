@@ -61,8 +61,9 @@ Vagrant.configure("2") do |config|
     centos7.vm.network "private_network", ip: "192.168.33.85"
     centos7.vm.hostname = "centos7.dtp" 
     centos7.vm.provider "virtualbox" do |vb|
-      vb.memory = 1024
+      vb.name = "centos/7"
       vb.cpus = 2
+      vb.memory = 1024
       end
    end  
 end
