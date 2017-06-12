@@ -151,7 +151,7 @@ end
 * Usuários
 * Superusuários
 * sudo **x** su
-```Linux
+```Bash
 cat /etc/passwd
 root:x:0:0:root:/root:/bin/bash
 sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
@@ -168,7 +168,7 @@ vboxadd:x:996:1::/var/run/vboxadd:/bin/false
 * Grupos primários
 * Grupps secundários
 * Permissões UGO
-```Linux
+```Bash
 -rw-rw-r--. 1 vagrant vagrant 6 Jun 12 20:20 teste
 ```
 
