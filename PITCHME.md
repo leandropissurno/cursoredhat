@@ -55,6 +55,28 @@ The same tool you use to create project **READMEs** and **Wikis** for your Git r
 
 ![Image-Absolute](img/vagrant_fluxo.png)
 
+
++++?image=img/dtp_fundo.jpg
+
+<span style="color:#035D93; font-size:1.5em">Vagrantfile</b></span>
+
+```Vagrantfile
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+Vagrant.configure("2") do |config|
+  config.vm.define "redhat7" , primary: true do |redhat7|
+    redhat7.vm.box = "rhel/7.3"
+    redhat7.vm.network "private_network", ip: "192.168.33.85"
+    redhat7.vm.hostname = "redhat7.dtp" 
+    redhat7.vm.provider "virtualbox" do |vb|
+      vb.memory = 1024
+      vb.cpus = 2
+      end
+   end  
+end
+```
+
+
 ---
 
 ## Code Slides
