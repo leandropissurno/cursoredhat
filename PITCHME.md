@@ -168,6 +168,8 @@ vboxadd:x:996:1::/var/run/vboxadd:/bin/false
 * Grupps secundários
 * Permissões UGO
 ```Linux
+-rw-rw-r--. 1 vagrant vagrant 6 Jun 12 20:20 teste
+```
 
 
 ---
