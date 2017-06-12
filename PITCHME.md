@@ -51,13 +51,6 @@ The same tool you use to create project **READMEs** and **Wikis** for your Git r
 
 +++?image=img/dtp_fundo.jpg
 
-<span style="color:#035D93; font-size:1.5em">vagrant up</b></span>
-
-![Image-Absolute](img/vagrant_fluxo.png)
-
-
-+++?image=img/dtp_fundo.jpg
-
 <span style="color:#035D93; font-size:1.5em">Vagrantfile</b></span>
 
 ```Ruby
@@ -75,6 +68,12 @@ Vagrant.configure("2") do |config|
    end  
 end
 ```
+
++++?image=img/dtp_fundo.jpg
+
+<span style="color:#035D93; font-size:1.5em">vagrant up</b></span>
+
+![Image-Absolute](img/vagrant_fluxo.png)
 
 
 ---
