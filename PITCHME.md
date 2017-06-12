@@ -62,7 +62,6 @@ Vagrant.configure("2") do |config|
     centos7.vm.hostname = "centos7.dtp" 
     centos7.vm.provider "virtualbox" do |vb|
       vb.name = "centos/7"
-      vb.cpus = 2
       vb.memory = 1024
       end
    end  
