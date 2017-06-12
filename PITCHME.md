@@ -138,6 +138,29 @@ end
 
 ![Image-Absolute](img/filesystem.png)
 
+
+---?image=img/dtp_capitulo.jpg
+
+<div style="float:center; font-family:Helvetica Neue; font-size:180%; font-weight:bold; color:#2E86AC">USUÁRIOS E GRUPOS</div><br>
+
++++?image=img/dtp_fundo.jpg
+
+<span style="color:#035D93; font-size:1.5em">Usuários</b></span>
+
+* Usuários
+
+* Superusuários
+
+* sudo **x** su
+
+
+
++++?image=img/dtp_fundo.jpg
+
+<span style="color:#035D93; font-size:1.5em">Tipos</b></span>
+
+![Image-Absolute](img/filesystem.png)
+
 ---
 
 ## Code Slides
