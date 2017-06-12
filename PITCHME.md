@@ -103,7 +103,7 @@ end
 
 <span style="color:#035D93; font-size:1.5em">Comandos Básicos</b></span>
 
-![Image-Absolute](img/comandos_essenciais.png)
+![Image-Absolute](img/comandos_essenciais0.png)
 
 ---
 
