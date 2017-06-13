@@ -68,3 +68,22 @@ oxigênio <br>
 3 - Pressione ESC para voltar ao modo de comando e digite **:w** para escrever o arquivo usando o mesmo nome de arquivo.
 
 4 - Digite **:3** para ir a linha número 3.
+
+5 - Digite **dd** para excluir esta linha.
+
+6 - Digite **dd** novamente para excluir outra linha.
+
+7 - Digite **u** para desfazer a última exclusão.
+
+8 - Digite **o** para abrir uma nova linha.
+
+9 - Digite mais algumas palavras na posição atual do cursor:
+
+árvore <br>
+fazenda <br>
+
+10 - Pressione **Esc** para voltar ao modo de comando.
+
+11 - Digite **:%s/boi/BOI/g** e tecle enter.
+
+12 - Digite **:wq** para escrever no arquivo e sair. Se, por algum motivo, isso não funcionar, use **:wq!**.
