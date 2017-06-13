@@ -7,7 +7,7 @@
 
 ##### Comandos Internos e Comandos Externos
 
-1 - Digite **type ls**. Isso executa o comando **ls** onde o **time** interno do bash
+1 - Digite ```type ls````. Isso executa o comando **ls** onde o **time** interno do bash
 mostra informações sobre o tempo necessário para completar este comando.
 
 2 - Digite **which time**. Isso mostra o nome do arquivo **/bin/time** que foi enontrado na variável **$PATH**.
