@@ -87,3 +87,22 @@ fazenda <br>
 11 - Digite **:%s/boi/BOI/g** e tecle enter.
 
 12 - Digite **:wq** para escrever no arquivo e sair. Se, por algum motivo, isso não funcionar, use **:wq!**.
+
+
+----
+#### SISTEMAS EM EXECUÇÃO
+
+##### Systemd
+
+1 - Listar os tipos de unidades
+**systemctl -t help**
+
+2 - Digite **yum -y install vsftpd** para instalar o serviço Very Secure FTP.
+
+3 - Digite **systemctl start vsftpd**. Isso ativa o servidor FTP em sua máquina.
+
+4 - Digite **systemctl status vsftpd**. Você obterá o status do serviço Very Secure FTP e irá perceber que o serviço está atualmente operacional. Você pode ver tamém na linha **Loaded** está desabilitado. Isso significa que ele não será ativado quando o sistema reiniciar.
+
+5 - Digite **systemctl enable vsftpd**. Isso cria um link simbólico no diretório **wants** para o alvo multiusuário para garantir que o serviço seja recuperado após um reinício.
+
+6 - Digite **systemctl status vsftpd** novamente. Você verá agora que o arquivo da unidade mudou de desativado para ativado.
