@@ -1,7 +1,8 @@
-# cursoredhat
+# curso redhat
 
 ### Exercícios
 
+----
 #### FERRAMENTAS ESSENCIAIS
 
 ##### Comandos Internos e Comandos Externos
@@ -32,3 +33,38 @@ exercício. Digite **pwd** para verificar isso.
 mensagem de erro escrita em STDERR.
 
 5 - Digite **ls ilwehgi 2 > /dev/null**. Agora você não verá mais a mensagem de erro.
+
+
+##### Trabalhando com History
+
+1 - Digite **history** para obter uma visão geral dos comandos que você usou anteriormente.
+
+2 - Digite alguns comandos como os seguintes:
+    
+**ls** <br>
+**pwd** <br>
+**cat /etc/hosts** <br>
+**ls -l** <br>
+    
+   Digite **history** novamente.
+
+3 - Digite **history -c** para limpar o histórico.
+
+
+##### Vim
+
+1 - Digite **vim ~/testfile**. Isso inicia vim e abre um arquivo com o nome testfile em ~, que representa o seu diretório inicial atual.
+
+2 - Pressione **i** para entrar no modo inserção e digite o seguinte texto:
+
+vaca <br>
+ovelha <br>
+boi <br>
+galinha <br>
+cobra <br>
+peixe <br>
+oxigênio <br>
+
+3 - Pressione ESC para voltar ao modo de comando e digite **:w** para escrever o arquivo usando o mesmo nome de arquivo.
+
+4 - Digite **:3** para ir a linha número 3.
