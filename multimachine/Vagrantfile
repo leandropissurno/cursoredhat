@@ -1,0 +1,50 @@
+# -*- mode: ruby -*-
+# vi: set ft=ruby :
+Vagrant.configure("2") do |config|
+  config.vm.define "web" , primary: true do |web|
+    web.vbguest.auto_update = false
+    web.vm.synced_folder ".", "/vagrant", disabled: true
+    web.vm.box = "centos/7"
+    web.vbguest.auto_update = false
+    web.vm.network "private_network", ip: "192.168.33.86"
+    web.vm.hostname = "web.dtp"
+    app.vm.provision "shell", path: "web.sh"
+    web.vm.provider "virtualbox" do |vb|
+      vb.name = "web"
+      vb.cpus = 2
+      vb.memory = 1024
+    end
+  end
+  config.vm.define "app" , primary: true do |app|
+    app.vbguest.auto_update = false
+    app.vm.synced_folder ".", "/vagrant", disabled: true
+    app.vm.box = "centos/7"
+    app.vbguest.auto_update = false
+    app.vm.network "private_network", ip: "192.168.33.87"
+    app.vm.hostname = "app.dtp"
+    app.vm.provision "shell", path: "app.sh"
+    app.vm.provider "virtualbox" do |vb|
+      vb.name = "app"
+      vb.cpus = 2
+    end
+  end
+  config.vm.define "data" , primary: true do |data|
+    data.vbguest.auto_update = false
+    data.vm.synced_folder ".", "/vagrant", disabled: true
+    data.vm.box = "centos/7"
+    data.vbguest.auto_update = false
+    data.vm.network "private_network", ip: "192.168.33.88"
+    data.vm.hostname = "data.dtp"
+    data.vm.provision "shell", path: "app.sh"
+    data.vm.provider "virtualbox" do |vb|
+      vb.name = "data"
+      vb.cpus = 2
+      vb.memory = 1024
+      unless File.exist?("data.vdi")
+          vb.customize ["storagectl", :id, "--name", "SATA Controller", "--add", "sata"]
+          vb.customize ["createhd",  "--filename", "data.vdi", "--size", "5120"]
+          vb.customize ["storageattach", :id, "--storagectl", "SATA Controller", "--port", "0", "--type", "hdd", "--medium", "data.vdi"]
+      end
+    end
+  end  
+end

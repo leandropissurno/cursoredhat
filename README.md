@@ -116,7 +116,7 @@ fazenda <br>
 
 2 - Digite ```systemctl isolate rescue.target```. Isso muda seu computador para o target rescue. Você precisa digitar a senha de root no console do servidor para entrar.
 
-3 - Digite ```systemctl isolate reboot.targe```.
+3 - Digite ```systemctl isolate reboot.target```.
 
 
 ##### Definindo o Target Default
