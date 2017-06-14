@@ -106,3 +106,37 @@ fazenda <br>
 5 - Digite ```systemctl enable vsftpd```. Isso cria um link simbólico no diretório ```wants``` para o alvo multiusuário para garantir que o serviço seja recuperado após um reinício.
 
 6 - Digite ```systemctl status vsftpd``` novamente. Você verá agora que o arquivo da unidade mudou de desativado para ativado.
+
+7 - Listar as dependências do serviço Very Secure FTP. ```systemctl list-dependencies vsftpd```.
+
+
+##### Isolando Targets
+
+1 - No shell, vá para o diretório ```/usr/lib/systemd/system```. Digite ```grep Isolate *.target```. Isso irá mostrar uma lista com todos os targets que permitem isolamento.
+
+2 - Digite ```systemctl isolate rescue.target```. Isso muda seu computador para o target rescue. Você precisa digitar a senha de root no console do servidor para entrar.
+
+3 - Digite ```systemctl isolate reboot.targe```.
+
+
+##### Definindo o Target Default
+
+1 - ```systemctl get-default``` para visualizar o target padrão.
+
+2 - ```systemctl set-default basic.target``` para trocar o target padrão para **basic.target**.
+
+
+#### SISTEMAS DE ARQUIVOS
+
+
+#### FIREWALLD
+
+##### Firewalld Zonas
+
+1 - Abra um shell e digite o seguinte comando para pegar a zona padrão: ```firewall-cmd --get-default-zone```.
+
+2 - Para visualizar as zonas padrão digite: ```firewall-cmd --get-zones```.
+
+3 - Agora visualize os serviços disponíveis digitando: ```firewall-cmd --get-services```.
+
+4 - Para verificar quais serviços estão disponíveis na zona atual, digite: ```firewall-cmd --list-services```. Você verá uma pequena lista contendo uma DHCP e SSH.
