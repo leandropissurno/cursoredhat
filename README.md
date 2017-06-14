@@ -126,3 +126,17 @@ fazenda <br>
 2 - ```systemctl set-default basic.target``` para trocar o target padrão para **basic.target**.
 
 
+#### SISTEMAS DE ARQUIVOS
+
+
+#### FIREWALLD
+
+##### Firewalld Zonas
+
+1 - Abra um shell e digite o seguinte comando para pegar a zona padrão: ```firewall-cmd --get-default-zone```.
+
+2 - Para visualizar as zonas padrão digite: ```firewall-cmd --get-zones```.
+
+3 - Agora visualize os serviços disponíveis digitando: ```firewall-cmd --get-services```.
+
+4 - Para verificar quais serviços estão disponíveis na zona atual, digite: ```firewall-cmd --list-services```. Você verá uma pequena lista contendo uma DHCP e SSH.
