@@ -1,4 +1,4 @@
 # Vagrant stuff
 /.vagrant
 .vagrant
-*.vdi
+.vdi
