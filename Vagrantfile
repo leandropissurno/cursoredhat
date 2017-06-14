@@ -9,6 +9,11 @@ Vagrant.configure("2") do |config|
     centos7.vm.provider "virtualbox" do |vb|
       vb.name = "centos7"
       vb.memory = 1024
+      unless File.exist?("data#{i}.vdi")
+          vb.customize ["storagectl", :id, "--name", "SATA Controller", "--add", "sata"]
+          vb.customize ["createhd",  "--filename", "data#{i}.vdi", "--size", "5120"]
+          vb.customize ["storageattach", :id, "--storagectl", "SATA Controller", "--port", "0", "--type", "hdd", "--medium", "data#{i}.vdi"]
       end
-   end  
+    end
+  end  
 end
