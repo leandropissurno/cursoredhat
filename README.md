@@ -106,3 +106,23 @@ fazenda <br>
 5 - Digite ```systemctl enable vsftpd```. Isso cria um link simbólico no diretório ```wants``` para o alvo multiusuário para garantir que o serviço seja recuperado após um reinício.
 
 6 - Digite ```systemctl status vsftpd``` novamente. Você verá agora que o arquivo da unidade mudou de desativado para ativado.
+
+7 - Listar as dependências do serviço Very Secure FTP. ```systemctl list-dependencies vsftpd```.
+
+
+##### Isolando Targets
+
+1 - No shell, vá para o diretório ```/usr/lib/systemd/system```. Digite ```grep Isolate *.target```. Isso irá mostrar uma lista com todos os targets que permitem isolamento.
+
+2 - Digite ```systemctl isolate rescue.target```. Isso muda seu computador para o target rescue. Você precisa digitar a senha de root no console do servidor para entrar.
+
+3 - Digite ```systemctl isolate reboot.targe```.
+
+
+##### Definindo o Target Default
+
+1 - ```systemctl get-default``` para visualizar o target padrão.
+
+2 - ```systemctl set-default basic.target``` para trocar o target padrão para **basic.target**.
+
+
